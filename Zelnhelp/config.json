@@ -1,5 +1,5 @@
 {
-  "token": "MTQ4MjUxNzIyMDIxNDE3Nzk0NA.GqJqBe.emDQW_ymqgWT9vkGmHffJY0KznoGTYeqa8xQm0",
+  "token": "BOT-TOKEN-HERE",
   "prefix": "=",
   "brand": "kairo Develops",
   "status_text": ".gg/vanityhere",
@@ -36,9 +36,9 @@
       "ETH": "0x75dfA55Cb5EdF5B5043AF3325C0c686cE66E4989"
     },
     "ltc": {
-      "address": "LX8z55X1nPgQAXBW3hPpBrKTCD9CJTmtvb",
+      "address": "LTC ADDRESS HERE",
       "blockcypher_base": "https://api.blockcypher.com/v1",
-      "blockcypher_token": "a0a7d330ff1142a88492a9ffdc345998",
+      "blockcypher_token": "Blockcypher token here!",
       "user_agent": "ZeluneSlots/1.0 (+https://discord.gg/zlnsmp)",
       "sochain_base": "https://sochain.com/api/v2"
     },
