@@ -1,0 +1,72 @@
+{
+  "token": "MTQ4MjUxNzIyMDIxNDE3Nzk0NA.GqJqBe.emDQW_ymqgWT9vkGmHffJY0KznoGTYeqa8xQm0",
+  "prefix": "=",
+  "brand": "kairo Develops",
+  "status_text": ".gg/vanityhere",
+  "theme": {
+    "accent_hex": "#87CEEB",
+    "accent_int": 8900331,
+    "thumbs": {
+      "help": "https://media.discordapp.net/attachments/1482517176140300391/1482518402420576307/7f2ed419-ebf6-4466-a5d6-17e008a61e13.png?ex=69b73e5a&is=69b5ecda&hm=22235587508a776e3904824520fd6c43fd64ebec86dbee78fd7956d162d4798f&=&format=webp&quality=lossless&width=1366&height=1366",
+      "ltc": "https://media.discordapp.net/attachments/1429152148616122394/1429417261915045888/1cdcc135-3860-4ff1-836f-285315130d64-removebg-preview.png?ex=68f8b310&is=68f76190&hm=d9ced8b28ab6bb8c11209ced6c02676e92d8f11506a502546ca6eff94d6cfeef&=&format=webp&quality=lossless&width=800&height=800"
+    }
+  },
+  "roles": {
+    "ADMIN_ROLE_ID": "1482517410127937617",
+    "MOD_ROLE_ID": "1482517410127937617",
+    "MEMBER_ROLE_ID": "1482517454176387191",
+    "EARLY_SUPPORTER_ID": "1482517454176387191",
+    "MERCHANT_ID": "1482517454176387191",
+    "MUTE_ROLE_ID": "1482517454176387191"
+  },
+  "logging": {
+    "modlog_channel_id": "1482517670522916884",
+    "error_channel_id": "1482517670522916884",
+    "dm_fallback_channel_id": "1482517670522916884"
+  },
+  "payments": {
+    "coins": [
+      "LTC",
+      "BTC",
+      "ETH"
+    ],
+    "addresses": {
+      "LTC": "LX8z55X1nPgQAXBW3hPpBrKTCD9CJTmtvb",
+      "BTC": "bc1qvcr4mwfhq8cucq6u07xcdfemn5dujf55qwg28n",
+      "ETH": "0x75dfA55Cb5EdF5B5043AF3325C0c686cE66E4989"
+    },
+    "ltc": {
+      "address": "LX8z55X1nPgQAXBW3hPpBrKTCD9CJTmtvb",
+      "blockcypher_base": "https://api.blockcypher.com/v1",
+      "blockcypher_token": "a0a7d330ff1142a88492a9ffdc345998",
+      "user_agent": "ZeluneSlots/1.0 (+https://discord.gg/zlnsmp)",
+      "sochain_base": "https://sochain.com/api/v2"
+    },
+    "pricing": {
+      "fallback_ltc_eur": 80.0,
+      "cache_seconds": 90
+    }
+  },
+  "price_guard": {
+    "enabled": true,
+    "max_drop_pct": 7.5
+  },
+  "cooldowns": {
+    "ltc_per_channel_seconds": 5,
+    "notify_per_mod_seconds": 15
+  },
+  "features": {
+    "delete_invocation": false,
+    "dm_on_warn": true,
+    "help_as_select_menu": true,
+    "qr_png_size": 420,
+    "copy_buttons_ephemeral": true
+  },
+  "supporter_role_id": "1482519383363420340",
+  "verification_log_channel_id": "1482517670522916884",
+  "panel_message_link": "https://discord.com/channels/1482517175439724544/1482519052038570136/1482520481293668386",
+  "welcome_channel_id": "1482517562196496515",
+  "leave_channel_id": "1482517562196496515",
+  "chat_channel_id": "1482517176140300391",
+  "chat_cleanup_seconds": 21600
+}
